@@ -1,7 +1,7 @@
 # Tutorial
 
 How to differentiate between numbers systems. This is to help people who are just getting started in IT and are learning the basics of numbers systems. 
-By Jacob Culbertson
+### By Jacob Culbertson
 
 ## Contents
 
